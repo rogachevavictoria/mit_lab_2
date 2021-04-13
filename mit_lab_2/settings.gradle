@@ -1,0 +1,2 @@
+rootProject.name='mit_lab_2'
+include ':app'

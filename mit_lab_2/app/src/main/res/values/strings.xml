@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="akiraName">Akira</string>
+    <string name="nausicaaName">Nausicaa of the Valley of the Wind</string>
+    <string name="nausicaaDesc">Far in the future, after an apocalyptic conflict has devastated much of the world\'s ecosystem, the few surviving humans live in scattered semi-hospitable environments within what has become a "toxic jungle." Young Nausicaä lives in the arid Valley of the Wind and can communicate with the massive insects that populate the dangerous jungle. Under the guidance of the pensive veteran warrior, Lord Yupa, Nausicaä works to bring peace back to the ravaged planet.</string>
+    <string name="nausicaaShort">1984 ‧ Fantasy/Adventure ‧ 1h 57m</string>
+    <string name="perfectBlueName">Perfect Blue</string>
+    <string name="perfectBlueDesc">A singer quits her band to become an actress and sheds her "good girl" image to further her career.</string>
+    <string name="perfectBlueShort">1997 ‧ Mystery/Thriller ‧ 1h 30m</string>
+    <string name="akiraDesc">Biker Kaneda is confronted by many anti-social elements while trying to help his friend Tetsuo who is involved in a secret government project. Tetsuo\'s supernatural persona adds the final twist.</string>
+    <string name="akiraShort">1988 ‧ Sci-fi/Action ‧ 2h 6m</string>
+</resources>
